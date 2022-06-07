@@ -1,0 +1,15 @@
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/bin/Release/net6.0/HugeFileSorting
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/bin/Release/net6.0/HugeFileSorting.deps.json
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/bin/Release/net6.0/HugeFileSorting.runtimeconfig.json
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/bin/Release/net6.0/HugeFileSorting.dll
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/bin/Release/net6.0/HugeFileSorting.pdb
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/HugeFileSorting.csproj.AssemblyReference.cache
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/HugeFileSorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/HugeFileSorting.AssemblyInfoInputs.cache
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/HugeFileSorting.AssemblyInfo.cs
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/HugeFileSorting.csproj.CoreCompileInputs.cache
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/HugeFileSorting.dll
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/refint/HugeFileSorting.dll
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/HugeFileSorting.pdb
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/HugeFileSorting.genruntimeconfig.cache
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/HugeFileSorting/obj/Release/net6.0/ref/HugeFileSorting.dll
