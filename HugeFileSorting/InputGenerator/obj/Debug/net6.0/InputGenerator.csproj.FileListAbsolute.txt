@@ -1,0 +1,15 @@
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/bin/Debug/net6.0/InputGenerator
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/bin/Debug/net6.0/InputGenerator.deps.json
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/bin/Debug/net6.0/InputGenerator.runtimeconfig.json
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/bin/Debug/net6.0/InputGenerator.dll
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/bin/Debug/net6.0/InputGenerator.pdb
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/InputGenerator.csproj.AssemblyReference.cache
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/InputGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/InputGenerator.AssemblyInfoInputs.cache
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/InputGenerator.AssemblyInfo.cs
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/InputGenerator.csproj.CoreCompileInputs.cache
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/InputGenerator.dll
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/refint/InputGenerator.dll
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/InputGenerator.pdb
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/InputGenerator.genruntimeconfig.cache
+/Users/ekaterinapantilimonova/other_stuff/github/HugeFileSorting/HugeFileSorting/InputGenerator/obj/Debug/net6.0/ref/InputGenerator.dll
